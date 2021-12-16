@@ -510,6 +510,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   58. [Zapier](https://zapier.com/about/)
   59. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
   60. [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
+  61. [mDevelopers](https://mdevelopers.com/) - A software development company with experience in Mobile Apps, Web apps, AI/ML, UX/UI Design by cooperating with many startups and SMBs.
 
 ## Q&A
   1. Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
